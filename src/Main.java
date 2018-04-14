@@ -38,12 +38,12 @@ public class Main extends JFrame {
 					area.append('\n'+"");
 				if(list.get(i)=='.' || list.get(i)=='\t' || list.get(i)=='#')
 					try {
-						Thread.sleep(50);
+						Thread.sleep(5);
 					}
 					catch(InterruptedException e) {
 						e.printStackTrace();
 					}
-				if(list.get(i)==' ')
+				else if(list.get(i)==' ')
 					try {
 						Thread.sleep(5);
 					}
