@@ -25,4 +25,7 @@ Just clone this repo and navigate to the ***src*** folder folder.
 
 <p align="center"><img src='https://github.com/AlphaBAT69/JUSTICE/blob/master/screenshots/asifa_justice.gif' width='700px'></p>
 
+### Video
+Click ***[Here](https://youtu.be/RSx1zTTNOz8)*** to watch the video.
+
 <p align="center"><> with &hearts; by Tanay Toshniwal&copy;</p>
